@@ -13,7 +13,8 @@ h2 {
   color: #2B7292; }
 
 h3 { 
-  color: #0C2B39; } 
+  color: #0C2B39;
+  border: dashed red; } 
 
 p {
   color: red;
