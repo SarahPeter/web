@@ -3,7 +3,9 @@ body {
 }
 
 ol li {
-  color: #B32B16; }
+  color: #B32B16;
+    font-size: medium 
+}
 
     h1 {
   color: blue;
