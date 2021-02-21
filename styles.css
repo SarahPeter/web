@@ -48,3 +48,18 @@ a:hover {
   color: #2B7292;
   background-color: #F49384;
 }
+
+.box {
+  border: 5px solid blue;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+}
+
+
+
+
+
+
