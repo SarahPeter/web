@@ -32,9 +32,9 @@ a:visited {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10;
   width: 200px;
-  background-color: powderblue ;
+  background-color: blue ;
 }
 
 li a {
