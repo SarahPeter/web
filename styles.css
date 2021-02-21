@@ -23,3 +23,8 @@ p {
     font-family: Helvetica;
   font-size: large;
 }
+
+a:visited {
+  font-family: Helvetica; 
+  color: #B32B16;
+}
